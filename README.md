@@ -1,5 +1,5 @@
 # iGraphics-project
-This is my 1st Year 2nd Semester Software Development Lab-I Project. Click House_Of_wonders.pdf for more details.
+This is my 1st Year 2nd Semester Software Development Lab-I Project. To know more details about this project, please see the pdf file.
 
 # Instruction: 
 Download all the files and run the Microsoft Visual Studio Solution file in Microsoft Visual Studio.
